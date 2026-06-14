@@ -168,4 +168,16 @@ h1, h2, h3, h4, h5, h6{
     font-size: 20px;
     padding-bottom: 20px;
 }
-/* skill part start */
+/* skill part end */
+/* Resume part start */
+#resumepart{
+    padding: 100px 0;
+}
+.resume{
+    text-align: center;
+}
+h3{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
